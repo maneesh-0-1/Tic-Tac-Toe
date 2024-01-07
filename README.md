@@ -1,5 +1,5 @@
 # tic-tac-toe-minimax
-An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game. Try it: [Tic-tac-toe - Minimax]
+An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game.
 
 <p align="center">
 	<img src="preview/minimax_img.png"></img>
